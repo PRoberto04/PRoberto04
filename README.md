@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Roberto</h1>
-<h3 align="center">a developer passionate about learning about technology</h3>
+<h3 align="center">About me:</h3>
+My name is Paulo Roberto. I'm from Fortaleza, Ceará where I currently live. I completed the Integrated Computer Technician at the Federal Institute of Ceará (IFCE), I am currently studying Computer Engineering at the Federal University of Ceará (UFC).
 
 - 🔭 I’m currently working on [Xpert Xperience](https://github.com/Xpert-Xperience)
 
