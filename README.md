@@ -2,11 +2,11 @@
 <h3 align="center">About me:</h3>
 My name is Paulo Roberto. I'm from Fortaleza, Ceará where I currently live. I completed the Integrated Computer Technician at the Federal Institute of Ceará (IFCE), I am currently studying Computer Engineering at the Federal University of Ceará (UFC).
 
-- 🔭 I’m currently working on [Xpert Xperience](https://github.com/Xpert-Xperience)
+- 🔭 I’m currently working on [ConectaLot](https://github.com/conectalot)
 
 - 🌱 I’m currently learning **DevOps tools and technologies, mobile application development and good practices for developers**
 
-- 💬 Ask me about **Java, Node.js, SQL, NoSQL, Git**
+- 💬 Ask me about **Java, Node.js, SQL, NoSQL, Git, Laravel**
 
 - 📫 How to reach me **paulo.rcarlos23@gmail.com**
 
