@@ -52,6 +52,6 @@ My name is Paulo Roberto. I'm from Fortaleza, Ceará where I currently live. I c
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 ### Connect with me:
-<a href="https://linkedin.com<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>/in/paulo-roberto-5377b5261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-5377b5261" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-roberto-5377b5261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-5377b5261" height="30" width="40" /></a>
 <a href="https://instagram.com/roberto.paulo07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.paulo07" height="30" width="40" /></a>
 
